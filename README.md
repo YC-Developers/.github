@@ -1,11 +1,7 @@
-Here’s a professional README template for your GitHub repository:
-
----
-
 # YC-Developers
 
 Welcome to the **YC-Developers** GitHub repository! We are dedicated to creating high-quality software solutions and fostering a strong developer community. This repository contains a variety of projects aimed at solving real-world problems with code.
-
+---
 ## 🚀 Projects
 
 - **Project 1**: SMART-SAMS (SMART-SCHOOL MANAGEMENT SYSTEM) SYSTEM.
@@ -35,7 +31,8 @@ We encourage contributions from everyone. To contribute:
 2. Create a feature branch.
 3. Make your changes.
 4. Submit a pull request.
-
+   
+---
 ## 📞 Contact Us
 
-For any inquiries, reach out to us at [email@example.com](mailto:gisubizoaimeyannick@gmail.com).
+For any inquiries, reach out to us at [gisubizoaimeyannick@gmail.com](mailto:gisubizoaimeyannick@gmail.com).
